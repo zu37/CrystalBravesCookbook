@@ -8,7 +8,7 @@ Crystal Braves Cookbook
 
 ## Baking
 
-
+* [Granola Cookies](Baking/granolacookies.md)
 ## Chinese
 * [Under Construction]
 
