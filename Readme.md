@@ -20,6 +20,8 @@ Crystal Braves Cookbook
 
 ## Japanese
 
+## Korean
+
 
 ## Teej's Corner
 * [Minute Rice](Teej/minute_rice.md)
