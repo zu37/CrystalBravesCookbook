@@ -1,4 +1,5 @@
 # Arroz Caldo  
+I consider this the pinoy chicken soup for the soul, really good and filling, and very scalable. 
 ## Ingredients 
 ### Main
 - 2/3 cup canola oil, divided
@@ -11,6 +12,7 @@
 - 2 cups uncooked rice
 - 6 cups chicken stock
 - 1 tablespoon calamansi, key lime, or lime juice 
+- 1 tsp of turmeric (to add color, safflower is usually added but it might be hard to acquire) 
 - salt to taste
 
 ### Toppings
@@ -21,7 +23,7 @@
 ## Instructions
 1. Place 1/2 cup of oil and two-thirds of the garlic in a small saucepan over medium heat. Cook, stirring occasionally, until garlic turns light golden brown. Transfer garlic to fine mesh strainer and drain. Spread garlic out on a paper towel-lined plate and set aside.
 
-2. Heat remaining oil in a large Dutch oven or soup pot over medium-high heat until shimmering. Add onion and cook, stirring occasionally, until softened, but not browned, about 5 minutes. Add ginger and remaining garlic and cook for 1 minute longer. Add chicken and cook until browned all over. Stir in fish sauce and pepper and cook for 1 minute. Add rice and stir until well coated.
+2. Heat remaining oil in a large Dutch oven or soup pot over medium-high heat until shimmering. Add onion and cook, stirring occasionally, until softened, but not browned, about 5 minutes. Add ginger and remaining garlic and cook for 1 minute longer. Add chicken and cook until browned all over. Stir in fish sauce, pepper, and turmeric and cook for 1 minute. Add rice and stir until well coated.
 
 4. Stir in chicken stock, running spoon along bottom of Dutch oven to release any browned bits. Bring to a boil, then reduce to a simmer, cover, and cook until rice is completely tender and stock has thickened, about 20 minutes. Stir in lime or calamansi juice and season with salt and pepper to taste.
 
