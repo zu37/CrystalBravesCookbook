@@ -6,3 +6,4 @@
 
 3. Begin writing your recipe, using this as a template (Remember to use proper headers!): ![Recipe Template](/howtolistanewrecipe/3.png) 
 
+4. After you are done, press "Commit Changes" and it should come out like this: ![Finished Recipe](/howtolistanewrecipe/4.png)
