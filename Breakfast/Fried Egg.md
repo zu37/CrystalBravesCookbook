@@ -1,7 +1,7 @@
 # Fried Egg
 ## ingredients
-1 eg
-1 oil
+- 1 eg
+- 1 oil
 
 ## instructions
 - heat pan
