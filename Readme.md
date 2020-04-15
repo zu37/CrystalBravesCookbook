@@ -13,7 +13,7 @@ Crystal Braves Cookbook
 
 
 ## Filipino
-
+* [Arroz Caldo](Filipino/arrozcaldo.md)
 
 ## Japanese
 
