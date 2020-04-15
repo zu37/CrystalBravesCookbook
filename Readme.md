@@ -7,7 +7,7 @@ Crystal Braves Cookbook
 ## Baking
 
 
-## Chiner
+## Chinese
 
 
 ## Filipino
