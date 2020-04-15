@@ -19,3 +19,4 @@ Crystal Braves Cookbook
 
 
 ## Teej's Corner
+* [Minute Rice](Teej/MinuteRice.md)
