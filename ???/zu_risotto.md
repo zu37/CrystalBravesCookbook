@@ -43,3 +43,4 @@ don't go cooking this dish for an italian or french person and call it risotto. 
 - *if you take a grain and bite into it and the middle is still very dry and crumbly, it's not yet done (similar to pasta)
 - make sure to dice your vegetables and mushrooms to about the same size for a uniform risotto (except the garlic, chop that to much smaller pieces)
 - if you don't like to use white wine, you can substitute with a few teaspoons of lemon juice (you're mostly adding wine to get a little acidity), although you might need more water.
+- most importantly, modify the ingredient amounts to your liking as ingredients are not always the same everywhere. 
