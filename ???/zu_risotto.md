@@ -1,4 +1,5 @@
 # Zu's Barley Risotto (ish) 
+don't go cooking this dish for an italian or french person and call it risotto. this recipe was developed during coronatimes.
 ## Ingredients (makes about 3-4 servings)
 - 2 tbsp butter 
 - olive oil
