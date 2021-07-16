@@ -17,13 +17,11 @@ Crystal Braves Cookbook
 ## Filipino
 * [Arroz Caldo](Filipino/arrozcaldo.md)
 
-## Italiano
-
+## Italian
 
 ## Japanese
-
+* [Oyakodon](Japanese/Oyakodon.md)
 ## Korean
-
 
 ## Teej's Corner
 * [Minute Rice](Teej/minute_rice.md)
