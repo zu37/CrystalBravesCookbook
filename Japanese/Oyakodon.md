@@ -1,5 +1,5 @@
 # Oyakodon
-
+Because nothing says japanese home cooked comfort food better than reuniting a mother and her child in a bowl.
 ## Ingredients (Serves 1)
 
 - Chicken Thigh - 150g (trim the skin, but if you don't want to waste it, sear the chicken skin-side down first before you slice it)
