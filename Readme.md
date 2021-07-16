@@ -5,11 +5,11 @@ Crystal Braves Cookbook
 
 ## American
 
-## Breakfast
-* [Fried Egg](Breakfast/fried_egg.md)
-
 ## Baking
 * [Granola Cookies](Baking/granolacookies.md)
+
+## Breakfast
+* [Fried Egg](Breakfast/fried_egg.md)
 
 ## Chinese
 
