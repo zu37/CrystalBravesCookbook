@@ -9,10 +9,9 @@ Crystal Braves Cookbook
 * [Fried Egg](Breakfast/fried_egg.md)
 
 ## Baking
-
 * [Granola Cookies](Baking/granolacookies.md)
+
 ## Chinese
-* [Under Construction]
 
 ## Filipino
 * [Arroz Caldo](Filipino/arrozcaldo.md)
@@ -21,6 +20,7 @@ Crystal Braves Cookbook
 
 ## Japanese
 * [Oyakodon](Japanese/Oyakodon.md)
+
 ## Korean
 
 ## Teej's Corner
