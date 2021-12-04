@@ -15,6 +15,7 @@ Crystal Braves Cookbook
 
 ## Filipino
 * [Arroz Caldo](Filipino/arrozcaldo.md)
+* [Pork Chops](Filipino/porkchop.md)
 
 ## Italian
 
