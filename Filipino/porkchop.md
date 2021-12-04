@@ -1,6 +1,6 @@
 # Pork Chops
 How I and I my mom would make pork chop at home. While the recipe is simple, it requires a 30 minute to 2 hour marination, so take that into consideration. 
-Optionally, you can brine the pork before marinating for better texture. 
+Optionally, you can brine the pork over night before marinating for better texture if you have the time. 
 ## Ingredients 
 ### Main
 - 6 center cut pork loin rib chops, preferably bone-in and about 1/2-inch thick
