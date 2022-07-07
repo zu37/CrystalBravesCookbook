@@ -53,10 +53,10 @@ Note: if possible, have the cream cheese, whipping cream, butter at room temp. i
 
 - Add zest and juice. Whisk well to blend and set aside.
 
-## Bain-Marie Prep
+## Bain-Marie
 - Put the baking sheet inside the oven and pour in hot water until it is halfway up the sides or 1-inch deep. Close the oven door.
 
-## Meringue Prep
+## Meringue
 - Add the cold egg whites into the large clean mixing bowl of a stand mixer. Make sure there is no oil or water in the bowl. Start whisking on medium speed until the egg whites become opaque, foamy, and bubbly, about 2 minutes. 
 
 - Then slowly add sugar, one-third portion at a time while the mixer runs.
