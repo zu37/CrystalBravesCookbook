@@ -38,7 +38,7 @@ Note: if possible, have the cream cheese, whipping cream, butter at room temp. i
 
 - If using a double boiler, set a medium saucepan filled with 2 inches of water over high heat and bring to a simmer. Once simmering, cover and reduce the heat to maintain a steady simmer.
 
-// Cake Batter 
+## Cake Batter 
 
 - (Using a double boiler) In a stand mixer bowl, add cream cheese, unsalted butter, heavy whipping cream, and granulated sugar. Put the bowl over the saucepan with the simmering water. Using a silicone spatula, mash the cream cheese and butter. Once they are melted, use a whisk to blend everything together. Remove from the heat.
 
@@ -66,7 +66,7 @@ Once you’ve added all the sugar, increase the mixer speed to high and beat the
 ## Baking
 - Place the cake pan on the baking sheet with the bain-marie that’s already in the oven. Reduce the oven temperature to 160ºC and bake for 70-75 minutes. Then, reduce the oven temperature to 150ºC and bake for another 10 minutes, or until the top is golden brown and a skewer inserted comes out clean. For a convection oven, reduce the cooking temperature by 15ºC.
 
-// Cooling & Topping
+## Cooling & Topping
 - Turn off the oven and leave the oven door slightly ajar for 15-20 minutes with the cake inside. If taken out immediately, the cake will collapse. 
 
 - Remove the pan from the oven. Gently pull out the cake from the pan using the two parchment paper straps (easier with two people </3). Remove the remaining parchment paper except for the bottom circle parchment.
