@@ -7,6 +7,7 @@ Crystal Braves Cookbook
 
 ## Baking
 * [Granola Cookies](Baking/granolacookies.md)
+* [Japanese Cheesecake V2](Baking/Japanese Cheesecake V2.md)
 
 ## Breakfast
 * [Fried Egg](Breakfast/fried_egg.md)
