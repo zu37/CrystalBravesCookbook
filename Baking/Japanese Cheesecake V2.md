@@ -14,7 +14,7 @@
 
 Note: if possible, have the cream cheese, whipping cream, butter at room temp. if not, you can use a double boiler. 
 
-### Tools
+## Tools
 - 9 x 4 inch cake pan
 - Baking sheet, roasting pan, or whatever deep pan that can fit the cake pan for a bain-marie
 - Parchment paper
@@ -34,15 +34,17 @@ Note: if possible, have the cream cheese, whipping cream, butter at room temp. i
 
 - Measure all your ingredients.
 
--  Separate the 6 eggs. Refrigerate the egg whites (if your fridge has space, refrigerate them in a stand mixer bowl - helps in making meringue)
+- Separate the 6 eggs. Refrigerate the egg whites (if your fridge has space, refrigerate them in a stand mixer bowl - helps in making meringue)
 
 - If using a double boiler, set a medium saucepan filled with 2 inches of water over high heat and bring to a simmer. Once simmering, cover and reduce the heat to maintain a steady simmer.
 
 ## Cake Batter 
 
-- (Using a double boiler) In a stand mixer bowl, add cream cheese, unsalted butter, heavy whipping cream, and granulated sugar. Put the bowl over the saucepan with the simmering water. Using a silicone spatula, mash the cream cheese and butter. Once they are melted, use a whisk to blend everything together. Remove from the heat.
+### If using a double boiler
+- In a stand mixer bowl, add cream cheese, unsalted butter, heavy whipping cream, and granulated sugar. Put the bowl over the saucepan with the simmering water. Using a silicone spatula, mash the cream cheese and butter. Once they are melted, use a whisk to blend everything together. Remove from the heat.
 
-- (Without using a double boiler) In a stand mixer bowl, add cream cheese, unsalted butter, heavy whipping cream, and granulated sugar. Using a silicone spatula, mash the cream cheese and butter. Place in stand mixer with the whisk attachment and mix until well melted and blended.
+### If ingredients are brought to room temp
+- In a stand mixer bowl, add cream cheese, unsalted butter, heavy whipping cream, and granulated sugar. Using a silicone spatula, mash the cream cheese and butter. Place in stand mixer with the whisk attachment and mix until well melted and blended.
 
 - While whisking, add the 6 egg yolks into the warm cream cheese mixture, one at a time. Make sure each egg yolk is blended well with the cream cheese mixture before adding the next one.
 
