@@ -1,4 +1,4 @@
-#Japanese Cheesecake V2
+# Japanese Cheesecake V2
 
 ## Ingredients
 - 300 g cream cheese
