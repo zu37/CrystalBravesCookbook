@@ -46,6 +46,7 @@ Note: if possible, have the cream cheese, whipping cream, butter at room temp. i
 ### If ingredients are brought to room temp
 - In a stand mixer bowl, add cream cheese, unsalted butter, heavy whipping cream, and granulated sugar. Using a silicone spatula, mash the cream cheese and butter. Place in stand mixer with the whisk attachment and mix until well melted and blended.
 
+### Mixing in eggs and flour
 - While whisking, add the 6 egg yolks into the warm cream cheese mixture, one at a time. Make sure each egg yolk is blended well with the cream cheese mixture before adding the next one.
 
 - Using a fine-mesh strainer, sift the cake flour into the batter. Whisk and blend together. Then pass the batter through the same fine mesh strainer into another bowl, for a smoother consistency.
