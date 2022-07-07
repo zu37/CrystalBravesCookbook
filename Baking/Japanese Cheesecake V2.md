@@ -14,7 +14,7 @@
 
 Note: if possible, have the cream cheese, whipping cream, butter at room temp. if not, you can use a double boiler. 
 
-## Tools
+### Tools
 - 9 x 4 inch cake pan
 - Baking sheet, roasting pan, or whatever deep pan that can fit the cake pan for a bain-marie
 - Parchment paper
